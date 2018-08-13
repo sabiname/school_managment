@@ -1,5 +1,4 @@
-# studentList = []
-# class Student:
+ifhxddfgsdgsg`# class Student:
 # 	def  __int__(find,name,address):
 # 		self.name = name
 # 		self.address = address
