@@ -25,5 +25,3 @@ while choice=="y":
 ##rearrange the array
 ##find prime num betn 1-100
 
-this is jepayo tehi
-this is test
